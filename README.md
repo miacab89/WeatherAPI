@@ -8,4 +8,5 @@ WHERE DOES IT WORK</br>
 The Weather Dashboard is strictly an HTML application however is still fit best for mobile screens. 
 
 
-![image](https://user-images.githubusercontent.com/58441831/73590122-43245000-44a4-11ea-8a0c-0cd6ae865918.png)
+![image](https://user-images.githubusercontent.com/58441831/73594505-a5954480-44d4-11ea-9c54-31ebb5e8f974.png)
+
